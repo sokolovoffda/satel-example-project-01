@@ -1,0 +1,17 @@
+@import 'tailwindcss';
+* {
+	font-synthesis: none;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-text-size-adjust: 100%;
+	font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body {
+	color: white;
+	background-color: rgb(30, 30, 30);
+	font-size: 20px;
+	width: 1200px;
+	margin: 0 auto;
+}
